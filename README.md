@@ -1,1 +1,1 @@
-# verbose-octo-funicular
+### 세미나 avi 파트
